@@ -1,21 +1,22 @@
 {
   "files": {
     "main.css": "/hpbd/static/css/main.540a5210.css",
-    "main.js": "/hpbd/static/js/main.b6cc1cb2.js",
+    "main.js": "/hpbd/static/js/main.b56f63c4.js",
     "static/js/787.022d7f73.chunk.js": "/hpbd/static/js/787.022d7f73.chunk.js",
-    "static/media/hbd.mp3": "/hpbd/static/media/hbd.c19a90b2dcf76c0e5dfd.mp3",
     "static/media/PatrickHand-Regular.ttf": "/hpbd/static/media/PatrickHand-Regular.ec54a049bdef4be52511.ttf",
     "static/media/CANDY___.otf": "/hpbd/static/media/CANDY___.eed012c385a1a607e240.otf",
     "static/media/NerkoOne-Regular.ttf": "/hpbd/static/media/NerkoOne-Regular.2e8be1a15ff9c6ac9177.ttf",
+    "static/media/our2.jpg": "/hpbd/static/media/our2.f6575bbe1f7d21884eb4.jpg",
     "static/media/Kanit-Regular.ttf": "/hpbd/static/media/Kanit-Regular.a51441e972d57b28e7c1.ttf",
+    "static/media/strawberry.png": "/hpbd/static/media/strawberry.879c464ef53fb26a176e.png",
     "static/media/logo.svg": "/hpbd/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/hpbd/index.html",
     "main.540a5210.css.map": "/hpbd/static/css/main.540a5210.css.map",
-    "main.b6cc1cb2.js.map": "/hpbd/static/js/main.b6cc1cb2.js.map",
+    "main.b56f63c4.js.map": "/hpbd/static/js/main.b56f63c4.js.map",
     "787.022d7f73.chunk.js.map": "/hpbd/static/js/787.022d7f73.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.540a5210.css",
-    "static/js/main.b6cc1cb2.js"
+    "static/js/main.b56f63c4.js"
   ]
 }
