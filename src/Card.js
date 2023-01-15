@@ -1,6 +1,7 @@
 import { Stack } from "@mui/material";
 import React from "react";
-
+import berry from "./assets/strawberry.png";
+import our from "./assets/our2.jpg";
 const Card = () => {
     return (
         <div className="birthdayCard">
@@ -23,10 +24,10 @@ const Card = () => {
                             <div className="layer layer-middle"></div>
                             <div className="layer layer-top"></div>
                             <div className="icing">
-                                <img src="/strawberry.png" alt="" />
-                                <img src="/strawberry.png" alt="" />
-                                <img src="/strawberry.png" alt="" />
-                                <img src="/strawberry.png" alt="" />
+                                <img src={berry} alt="" />
+                                <img src={berry} alt="" />
+                                <img src={berry} alt="" />
+                                <img src={berry} alt="" />
                             </div>
                             <div className="drip drip1"></div>
                             <div className="drip drip2"></div>
@@ -37,7 +38,7 @@ const Card = () => {
                         </div>
                     </div>
                     <div className="backk">
-                        <img src="/our2.jpg"></img>
+                        <img src={our}></img>
                         <h1>&#10084; </h1>
                     </div>
                 </div>
