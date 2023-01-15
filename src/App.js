@@ -1,25 +1,15 @@
-import logo from './logo.svg';
-import './App.css';
-
+import logo from "./logo.svg";
+import "./App.css";
+import { Box, Stack } from "@mui/material";
+import { useEffect, useRef } from "react";
+import track from "./hbd.mp3";
+import Card from "./Card";
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    const audioRef = useRef();
+    return (
+        <div className="App">
+            <Card />
+        </div>
+    );
 }
-
 export default App;
